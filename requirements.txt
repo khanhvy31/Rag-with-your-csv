@@ -1,0 +1,10 @@
+transformers 
+einops 
+accelerate 
+langchain 
+bitsandbytes
+openai
+chromadb
+langchain-community
+tiktoken
+
