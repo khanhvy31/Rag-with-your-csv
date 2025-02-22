@@ -7,3 +7,5 @@ langchain-community
 tiktoken
 python-dotenv
 langchain_ollama
+streamlit
+streamlit_chat
